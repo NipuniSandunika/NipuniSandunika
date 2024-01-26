@@ -1,7 +1,7 @@
 Greetings! 👋
 About Me
 
-Hey there! I'm Nipuni Sandunika, an undergraduate data scientist with a keen interest in the convergence of industrial statistics, machine learning, and deep learning. My journey involves delving into the realms of Python and R programming, where I continually strive to elevate my skills and contribute to impactful projects.
+Hey there! I'm Nipuni Sandunika, an undergraduate student with a keen interest in the convergence of industrial statistics, machine learning, and deep learning. My journey involves delving into the realms of Python and R programming, where I continually strive to elevate my skills and contribute to impactful projects.
 
 🔧 Skills
 
