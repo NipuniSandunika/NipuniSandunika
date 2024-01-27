@@ -1,5 +1,6 @@
-Greetings! 👋
-About Me
+Greetings! 
+
+👋About Me
 
 Hey there! I'm Nipuni Sandunika, an undergraduate student with a keen interest in the convergence of industrial statistics, machine learning, and deep learning. My journey involves delving into the realms of Python and R programming, where I continually strive to elevate my skills and contribute to impactful projects.
 
@@ -10,13 +11,5 @@ I wield proficiency in Python and R, and my expertise extends to various domains
 📚 Education
 
 Currently pursuing my undergraduate degree in Industrial Statistics at the University of Colombo, situated in the vibrant city of Colombo, Sri Lanka.
-
-🌱 Currently Learning
-
-My current focus revolves around:
-
-+ Advancing my skills in Machine Learning and Deep Learning.
-+ Engaging in real-world data science projects.
-+ Staying abreast of the latest developments in the ever-evolving field.
 
 Excited to explore new horizons and contribute meaningfully to the world of data science! 🚀
